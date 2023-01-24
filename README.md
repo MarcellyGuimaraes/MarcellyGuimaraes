@@ -13,7 +13,8 @@
   </a>
 </div>
 
-<div style="margin-top:2px">
+##
+<div>
 <a href="https://github.com/MarcellyGuimaraes/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcellyGuimaraes&show_icons=true&theme=radical&count_private=true" />
 </a>
@@ -29,7 +30,7 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-### Frameworks 
+### Frameworks 🎁
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
