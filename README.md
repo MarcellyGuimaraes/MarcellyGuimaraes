@@ -30,7 +30,7 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-### Frameworks 🎁
+### Frameworks 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -41,7 +41,7 @@
   <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
 
-## Tecnologias e outras ferramentas 
+### Tecnologias e outras ferramentas 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
