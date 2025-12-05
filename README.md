@@ -1,5 +1,5 @@
-<div>
-	<div width="49%">
+<div style="display: flex; flex-wrap: wrap; gap: 2%;">
+	<div style="flex: 0 0 49%;">
 		<div align="center"> 
 			<p style="font-size: 28px; font-weight: 800;">Olá, sou a Marcelly</p>
 			<img src="https://count.getloli.com/@MarcellyGuimaraes?name=MarcellyGuimaraes&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=2025" width="300px"/>  
@@ -32,7 +32,7 @@
 			<img width="12" />
 			<img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 		</div>
-		<h3>Tecnologias e outras ferramentas<h3>
+		<h3>Tecnologias e outras ferramentas</h3>
 			<div align="left">
 				<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 				<img width="12" />
@@ -56,7 +56,8 @@
 				</a>
 			</div>
 	</div>
-  <div>
-	  <img src="https://github.com/MarcellyGuimaraes/MarcellyGuimaraes/blob/main/general.svg" width="49%">
+  <div style="flex: 0 0 49%;">
+	  <!-- <img src="https://github.com/MarcellyGuimaraes/MarcellyGuimaraes/blob/main/general.svg" /> -->
+  	  <img src="https://github.com/MarcellyGuimaraes/MarcellyGuimaraes/raw/refs/heads/main/general.svg" />
   </div>
 </div>
