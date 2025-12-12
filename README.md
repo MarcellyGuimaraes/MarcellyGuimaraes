@@ -1,7 +1,8 @@
-<div>
-	<div width="49%">
-		<div align="center"> 
-			<p style="font-size: 28px; font-weight: 800;">Olá, sou a Marcelly</p>
+<table>
+  <tr>
+	  <td width="50%" valign="top">
+		  <div align="left"> 
+			<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F70C49&width=435&lines=Ol%C3%A1%2C+sou+a+Marcelly;Dev+%7C+FullStack+%7C+LARAVEL+%7C+REACT" alt="Typing SVG" /></a>
 			<img src="https://count.getloli.com/@MarcellyGuimaraes?name=MarcellyGuimaraes&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=2025" width="300px"/>  
 		</div>
 		<h3>Linguagens</h3>    
@@ -56,7 +57,9 @@
 				</a>
 			</div>
 	</div>
-  <div>
-	  <img src="https://github.com/MarcellyGuimaraes/MarcellyGuimaraes/blob/main/general.svg" width="49%">
-  </div>
-</div>
+	  </td>
+	  <td width="50%" valign="top">
+		  <img src="https://github.com/MarcellyGuimaraes/MarcellyGuimaraes/blob/main/general.svg" />
+	  </td>
+  </tr>
+</table>
