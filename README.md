@@ -1,50 +1,107 @@
-<div align="center">
-  <h2>Olá, sou a Marcelly</h2>
-  <img src="https://count.getloli.com/@MarcellyGuimaraes?name=MarcellyGuimaraes&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=2025" height="120"/>
-</div>
+<h1 align="center">Marcelly Guimarães</h1>
 
-<br/>
-
-<img align="right" src="https://github.com/MarcellyGuimaraes/MarcellyGuimaraes/blob/main/general.svg?raw=true" width="38%" alt="General Stats" />
-
-<h3>Linguagens</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
+<p align="center">
+  <b>Desenvolvedora Full Stack</b> · Feira de Santana, BA 🇧🇷
 </p>
 
-<h3>Frameworks</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
-  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress" />
+<p align="center">
+  <a href="https://celly-guimaraes-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfólio-DC2626?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://www.linkedin.com/in/MarcellyGuimaraes/"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:souzaguimaraesmarcelly@gmail.com"><img src="https://img.shields.io/badge/E--mail-1E1E1E?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
 </p>
 
-<h3>Tecnologias e Ferramentas</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%94%8D%20Aberta%20a%20oportunidades-DC2626?style=flat-square" alt="Aberta a oportunidades"/>
 </p>
 
-<h3>Contatos</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/MarcellyGuimaraes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:souzaguimaraesmarcelly@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
-</p>
+---
 
+### Sobre
+
+Desenvolvo aplicações web do back ao front — sites institucionais, landing pages e sistemas — com foco em performance, conversão e experiência de quem usa. Trabalho principalmente com **React/Next.js** no front e **Laravel/PHP** no back, e gosto de entregar projeto que resolve o problema do cliente, não só que "está no ar".
+
+Atualmente **aberta a oportunidades** como desenvolvedora front-end ou full stack.
+
+---
+
+### Projetos em destaque
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🔐 [NexCert](https://nexcertbr.com.br/)**
+
+Plataforma de venda e emissão de certificados digitais ICP-Brasil (e-CPF, e-CNPJ, A1/A3). Catálogo com variações de plano, carrinho, formulário de solicitação e integração com WhatsApp.
+
+`Next.js` `React` `Tailwind`
+
+</td>
+<td width="33%" valign="top">
+
+**🌐 [SindiproSE](https://sindipro-ten.vercel.app/)**
+
+Site institucional do Sindicato dos Provedores de Internet de Sergipe. Área de notícias, repositório de arquivos, páginas institucionais e seção de parceiros.
+
+`Next.js` `React` `Tailwind`
+
+</td>
+<td width="33%" valign="top">
+
+**💼 [Portfólio](https://celly-guimaraes-dev.netlify.app/)**
+
+Meu site pessoal — apresentação de serviços, projetos e formas de contato, com foco em SEO e performance.
+
+`React` `Tailwind` `Netlify`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Stack
+
+<table>
+<tr>
+<td><b>Front-end</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-1E1E1E?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-1E1E1E?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Tailwind-1E1E1E?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Bootstrap-1E1E1E?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
+<img src="https://img.shields.io/badge/HTML5-1E1E1E?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-1E1E1E?style=flat-square&logo=css3&logoColor=1572B6"/>
+</td>
+</tr>
+<tr>
+<td><b>Back-end</b></td>
+<td>
+<img src="https://img.shields.io/badge/PHP-1E1E1E?style=flat-square&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/Laravel-1E1E1E?style=flat-square&logo=laravel&logoColor=FF2D20"/>
+<img src="https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Django-1E1E1E?style=flat-square&logo=django&logoColor=44B78B"/>
+<img src="https://img.shields.io/badge/WordPress-1E1E1E?style=flat-square&logo=wordpress&logoColor=21759B"/>
+</td>
+</tr>
+<tr>
+<td><b>Ferramentas</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-1E1E1E?style=flat-square&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Docker-1E1E1E?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/VS%20Code-1E1E1E?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Linux-1E1E1E?style=flat-square&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Vercel-1E1E1E?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-1E1E1E?style=flat-square&logo=netlify&logoColor=00C7B7"/>
+</td>
+</tr>
+</table>
+
+---
+
+---
+
+<p align="center">
+  <sub>📬 Aberta a propostas — <a href="mailto:souzaguimaraesmarcelly@gmail.com">souzaguimaraesmarcelly@gmail.com</a></sub>
+</p>
