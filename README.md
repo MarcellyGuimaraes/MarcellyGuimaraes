@@ -39,7 +39,7 @@ Plataforma de venda e emissão de certificados digitais ICP-Brasil (e-CPF, e-CNP
 </td>
 <td width="33%" valign="top">
 
-**🌐 [SindiproSE](https://sindipro-ten.vercel.app/)**
+**🌐 [SindiproSE](https://www.sindiprose.com.br/)**
 
 Site institucional do Sindicato dos Provedores de Internet de Sergipe. Área de notícias, repositório de arquivos, páginas institucionais e seção de parceiros.
 
