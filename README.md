@@ -63,11 +63,12 @@ Site institucional do Sindicato dos Provedores de Internet de Sergipe. Área de 
 </td>
 <td width="33%" valign="top">
 
-**💼 [Portfólio](https://celly-guimaraes-dev.netlify.app/)**
+**📊 [CRM de Vendas](https://github.com/MarcellyGuimaraes/kikos-crm-teste-tecnico)**
 
-Meu site pessoal — apresentação de serviços, projetos e formas de contato, com foco em SEO e performance.
+CRM fullstack em TypeScript: funil kanban com arrastar e soltar, leads, negócios ganho/perdido e dashboard por vendedor. Monorepo Node/Express + React, Prisma e JWT, com 50 testes.<br/><br/>
+<small><em><a href="https://crm-kikos.onrender.com">Demo ao vivo</a></em></small>
 
-`React` `Tailwind` `Netlify`
+`Node.js` `Express` `React` `TypeScript`
 
 </td>
 </tr>
