@@ -42,6 +42,7 @@ Atualmente **aberta a oportunidades** como desenvolvedora back-end ou full stack
 **🔐 [NexCert](https://nexcertbr.com.br/)**
 
 Plataforma de venda e emissão de certificados digitais ICP-Brasil (e-CPF, e-CNPJ, A1/A3). Catálogo com variações de plano, carrinho, formulário de solicitação e integração com WhatsApp.
+Projetos de cliente: o código é privado por contrato; deixo o resultado no ar e conto as decisões técnicas em entrevista.
 
 `Next.js` `React` `Tailwind`
 
@@ -51,6 +52,7 @@ Plataforma de venda e emissão de certificados digitais ICP-Brasil (e-CPF, e-CNP
 **🌐 [SindiproSE](https://www.sindiprose.com.br/)**
 
 Site institucional do Sindicato dos Provedores de Internet de Sergipe. Área de notícias, repositório de arquivos, páginas institucionais e seção de parceiros.
+Projetos de cliente: o código é privado por contrato; deixo o resultado no ar e conto as decisões técnicas em entrevista.
 
 `Next.js` `React` `Tailwind`
 
